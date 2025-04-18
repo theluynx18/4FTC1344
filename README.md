@@ -1,1 +1,4 @@
-Yeah well this is a read me file or mmm not :)
+notes for updates
+
+The new page will have Css
+This means the CSS file will to be in the same folder
