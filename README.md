@@ -2,6 +2,8 @@ All data for this site can be found at https://theluynx18.github.io/4FTC1344/
 This project is to build a basic frontend website using the previous assignment (2)
 The author of this Work is Alex Marchant 2025
 
+Deployed Wedsite can be found at https://theluynx18.github.io/4FTC1344/
+
 Copyright pending 2025 
 
 More information and how to deploy this site can be found at https://github.com/theluynx18/4FTC1344
